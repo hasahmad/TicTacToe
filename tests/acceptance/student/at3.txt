@@ -1,0 +1,5 @@
+new_game("HAS","AA")
+new_game("","")
+new_game("7","HAS")
+new_game("HAS","HAS")
+new_game("$"," ")
